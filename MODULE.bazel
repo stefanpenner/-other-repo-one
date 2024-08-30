@@ -1,0 +1,3 @@
+module(
+  name = "other-repo-one"
+)

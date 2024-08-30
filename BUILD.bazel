@@ -1,0 +1,5 @@
+java_library(
+    name = "printer",
+    srcs = ["Printer.java"],
+    visibility = ["//visibility:public"],
+)
